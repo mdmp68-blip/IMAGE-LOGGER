@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://imgur.com/To7FkRG" # Link to the webpage to redirect to 
+        "page": "https://media.discordapp.net/attachments/1374745879533060137/1403026134366556361/To7FkRG.png?ex=68960d69&is=6894bbe9&hm=1db164306f83f4d5ebc3de5606228c464b7d9793f3c8337470a4cf30bcfda1fb&=&format=webp&quality=lossless" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
